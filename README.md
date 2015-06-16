@@ -1,9 +1,7 @@
 # Description
-============
 SNMP monitoring Ericsson GGSN/MPG Juniper M320, M120.
 
 # Installation
-============
 value map **jnx (juniper) operating state**
 
 1 -> unknown
